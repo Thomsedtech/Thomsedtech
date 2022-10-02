@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Thomsedtech
+- 👀 I’m interested in teaching CS to kids 9-14. Also, 3D printing and 2D design for laser cutting.
+- 🌱 I’m currently learning Python, to better teach my kids.
+- 💞️ I’m looking to collaborate on ideas for teaching CS in general, and in particular cryptography, cybersecurity, and CTFs.
+- 📫 You can get to me at tbarclay@cliffvalley.org.
